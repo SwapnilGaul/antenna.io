@@ -31,7 +31,7 @@ p, li { white-space: pre-wrap; }
 
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a href="http://www.yahoo.com"><span style=" font-size:8pt; text-decoration: underline; color:#0000ff;">here</span></a></p>
 
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a href="www.google.com"><span style=" font-size:8pt; text-decoration: underline; color:#0000ff;">Google</span></a></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a href="http://www.google.com"><span style=" font-size:8pt; text-decoration: underline; color:#0000ff;">Google</span></a></p>
 
 <p align="center" style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:8pt; font-weight:600;">Conclusion &amp; Outcome</span><span style=" font-size:8pt;"> </span></p>
 <p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:8pt;">The dipole antenna is a particularly important form of RF antenna which is very widely used for radio transmitting and receiving applications. The dipole is often used on its own as an RF antenna, but it also forms the essential element in many other types of RF antenna. As such it is the possibly the most important form of RF antenna. </span></p></body></html>
