@@ -30,4 +30,4 @@
 <p align="justify" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:8pt;">                                 </span></p>
 <p align="justify" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:8pt;">                                </span><img src="./README_files/video.png" /><span style=" font-size:8pt;">                                  </span></p></body></html>
 
-<p>[Video](./README_files/video.png)</p>
+<p>[Video](/README_files/video.png)</p>
